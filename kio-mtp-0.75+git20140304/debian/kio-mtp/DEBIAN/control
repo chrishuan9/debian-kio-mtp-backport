@@ -1,0 +1,17 @@
+Package: kio-mtp
+Version: 0.75+git20140304-1~bpo70+1
+Architecture: amd64
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Installed-Size: 395
+Depends: libc6 (>= 2.3.4), libkdecore5 (>= 4:4.4.0), libkio5 (>= 4:4.3.4), libmtp9 (>= 1.1.3), libqtcore4 (>= 4:4.8.0), libsolid4 (>= 4:4.3.4), libstdc++6 (>= 4.1.1)
+Section: kde
+Priority: optional
+Homepage: https://projects.kde.org/kio-mtp
+Description: access to MTP devices for applications using the KDE Platform
+ This package includes the MTP KIO plugin. It allows applications using
+ the KDE Platform to access files stored on devices that provide access to
+ them via the MTP protocol.
+ .
+ The Media Transfer Protocol (commonly referred to as MTP) is a devised set
+ of custom extensions to support the transfer of music files on USB digital
+ audio players and movie files on USB portable media players.

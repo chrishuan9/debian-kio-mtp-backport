@@ -1,0 +1,13 @@
+Package: kio-mtp-dbg
+Source: kio-mtp
+Version: 0.75+git20140304-1~bpo70+1
+Architecture: amd64
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Installed-Size: 406
+Depends: kio-mtp (= 0.75+git20140304-1~bpo70+1)
+Section: debug
+Priority: extra
+Homepage: https://projects.kde.org/kio-mtp
+Description: debugging symbols for the MTP KIO plugin
+ This package contains debugging files used to investigate problems with
+ the MTP KIO plugin.

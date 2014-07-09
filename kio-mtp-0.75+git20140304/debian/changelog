@@ -1,0 +1,32 @@
+kio-mtp (0.75+git20140304-1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+
+ -- Chris Yereaztian <chris@bs.yereaztian.ch>  Tue, 17 Jun 2014 21:23:22 +0200
+
+kio-mtp (0.75+git20140304-1) unstable; urgency=medium
+
+  * New upstream release, including l10n.
+    - Fixes folder creation.
+  * Bump Standards-Version to 3.9.5, no changes needed.
+
+ -- Felix Geyer <fgeyer@debian.org>  Tue, 04 Mar 2014 20:28:21 +0100
+
+kio-mtp (0.75+git20130806-2) unstable; urgency=low
+
+  [ Felix Geyer ]
+  * Tighten dependency of kio-mtp-dbg on kio-mtp, thanks to Ansgar Burchardt.
+
+  [ Pino Toscano ]
+  * Add the pkg-config build dependency.
+  * Install everything directly in the destdir of kio-mtp; this avoids
+    maintaining a kio-mtp.install.
+  * Add Vcs-* headers.
+
+ -- Felix Geyer <fgeyer@debian.org>  Mon, 26 Aug 2013 19:22:03 +0200
+
+kio-mtp (0.75+git20130806-1) unstable; urgency=low
+
+  * Initial release. (Closes: #717104)
+
+ -- Felix Geyer <fgeyer@debian.org>  Tue, 06 Aug 2013 22:54:18 +0200

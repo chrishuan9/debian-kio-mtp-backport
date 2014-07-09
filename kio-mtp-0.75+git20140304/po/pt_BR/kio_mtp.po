@@ -1,0 +1,23 @@
+# Copyright (C) 2012 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Translation of kio_mtp.po to Brazilian Portuguese
+#
+# André Marcelo Alvarenga <alvarenga@kde.org>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: kio_mtp\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2013-03-24 03:38+0100\n"
+"PO-Revision-Date: 2012-10-03 22:13-0300\n"
+"Last-Translator: André Marcelo Alvarenga <alvarenga@kde.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@kde.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: kio_mtp.cpp:650
+msgid "Cannot copy/move files on the device itself"
+msgstr "Não é possível copiar/mover arquivos no próprio dispositivo"

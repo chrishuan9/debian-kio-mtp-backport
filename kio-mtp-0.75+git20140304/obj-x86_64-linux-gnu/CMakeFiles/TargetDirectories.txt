@@ -1,0 +1,4 @@
+/home/chris/kio-mtp-0.75+git20140304/obj-x86_64-linux-gnu/CMakeFiles/kio_mtp.dir
+/home/chris/kio-mtp-0.75+git20140304/obj-x86_64-linux-gnu/CMakeFiles/kio_mtp_automoc.dir
+/home/chris/kio-mtp-0.75+git20140304/obj-x86_64-linux-gnu/po/da/CMakeFiles/pofiles.dir
+/home/chris/kio-mtp-0.75+git20140304/obj-x86_64-linux-gnu/CMakeFiles/uninstall.dir
