@@ -18,7 +18,7 @@ Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 
 Changed-By: Chris Yereaztian <chris@bs.yereaztian.ch>
 
-Description:
+##Description:
 
  kio-mtp    - access to MTP devices for applications using the KDE Platform
 
@@ -27,7 +27,8 @@ Changes:
  kio-mtp (0.75+git20140304-1~bpo70+1) wheezy-backports; urgency=low
  .
    * Rebuild for wheezy-backports.
-Checksums-Sha1:
+
+#####Checksums-Sha1:
 
  aa5d93c90f9b301bb1b1481065e8ea1b2f54db09 1242 kio-mtp_0.75+git20140304-1~bpo70+1.dsc
 
@@ -37,7 +38,8 @@ Checksums-Sha1:
 
  4f36de2e7c2d23d66a62ba11c5c602e3adc56d4b 353576 kio-mtp-dbg_0.75+git20140304-1~bpo70+1_amd64.deb
 
-Checksums-Sha256:
+#####Checksums-Sha256:
+
  8c7a0e73df6060a808cfd1d401d345d4f4abfa75bcd5509dcaa2261204e87d3d 1242 kio-mtp_0.75+git20140304-1~bpo70+1.dsc
 
  936c7ac2dd794a84aedf7a66bd53d9a967fcf998f5308334c7033eb78848d7d9 2895 kio-mtp_0.75+git20140304-1~bpo70+1.debian.tar.gz
